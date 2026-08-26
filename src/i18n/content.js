@@ -27,7 +27,7 @@ export const CONTENT = {
     hero: {
       eyebrow: "Introduction",
       introText:
-        ", basée à Antananarivo. Je conçois et je livre des applications web complètes — d'ASP.NET Core à Laravel — pour des projets d'État et des plateformes métier.",
+        ", basé à Antananarivo. Je conçois et je livre des applications web complètes — d'ASP.NET Core à Laravel — pour des projets d'État et des plateformes métier.",
       cta: "Mon histoire",
     },
     highlights: {
@@ -40,9 +40,9 @@ export const CONTENT = {
       statProjects: "Projets\nréalisés",
     },
     specialtyCards: [
-      { title: "Développement Backend", tag: "C# · ASP.NET Core", featured: true },
+      { title: "Développement Backend", tag: "C# · ASP.NET Core · PHP · Laravel", featured: true },
       { title: "Développement Frontend", tag: "React Js · Bootstrap" },
-      { title: "Bases de données", tag: "SQL Server · MongoDB" },
+      { title: "Bases de données", tag: "SQL Server · MongoDB · MySQL · PostgreSQL" },
     ],
     about: {
       eyebrow: "Qui suis-je",
@@ -203,9 +203,9 @@ export const CONTENT = {
       statProjects: "Projects\nshipped",
     },
     specialtyCards: [
-      { title: "Backend Development", tag: "C# · ASP.NET Core", featured: true },
+      { title: "Backend Development", tag: "C# · ASP.NET Core · PHP · Laravel", featured: true },
       { title: "Frontend Development", tag: "React Js · Bootstrap" },
-      { title: "Databases", tag: "SQL Server · MongoDB" },
+      { title: "Databases", tag: "SQL Server · MongoDB · MySQL · PostgreSQL" },
     ],
     about: {
       eyebrow: "Who I am",
