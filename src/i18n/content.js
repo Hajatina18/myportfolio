@@ -79,7 +79,7 @@ export const CONTENT = {
       items: [
         {
           period: "Décembre 2025 — Mars 2026",
-          role: "Développeuse .NET / C# & WordPress",
+          role: "Développeur .NET / C# & WordPress",
           org: "Software Overseas Academy · Antananarivo",
           points: [
             "PREVSUP — application d'État française : maintenance corrective et évolutive sur ASP.NET Core, React.js, MongoDB, variables de configuration XML.",
@@ -91,7 +91,7 @@ export const CONTENT = {
         },
         {
           period: "Juin 2025 — Décembre 2025",
-          role: "Stage Développeuse ASP.NET Core MVC & Laravel",
+          role: "Stage Développeur ASP.NET Core MVC & Laravel",
           org: "Relia Consulting · Antananarivo",
           points: [
             "Conception et développement d'une plateforme de Salon Virtuel avec ASP.NET Core MVC et PostgreSQL (événements, exposants, visiteurs).",
@@ -111,7 +111,7 @@ export const CONTENT = {
         },
         {
           period: "Août — Novembre 2024",
-          role: "Développeuse ASP.NET (à distance)",
+          role: "Développeur ASP.NET (à distance)",
           org: "ICP Conseil · Lyon, France",
           points: [
             "Maintenance du projet Lifeline : filtrage des informations patients dans un fichier.",
@@ -123,12 +123,12 @@ export const CONTENT = {
     },
     projects: {
       eyebrow: "Réalisations",
-      title: "10+ projets livrés depuis 2023",
+      title: "Projets livrés depuis 2023",
       items: [
         { name: "PREVSUP", desc: "Prévision des effectifs étudiants — application d'État française. Migration ASP.NET 5 → 10, tests API, documentation Swagger.", tech: ["ASP.NET Core", "MongoDB", "Swagger"] },
         { name: "ONACVG", desc: "Application d'État française pour l'Office National des Anciens Combattants — frontend/backend WordPress, Custom Post Types.", tech: ["WordPress", "PHP"] },
-        { name: "SalonVirtuel", desc: "Plateforme web de salon virtuel : gestion des événements, exposants et visiteurs, conçue de bout en bout.", tech: ["ASP.NET Core MVC", "PostgreSQL"] },
-        { name: "ReseauPro", desc: "Module de journal d'activité pour un réseau social professionnel type LinkedIn, suivi des candidats.", tech: ["Laravel", "MySQL"] },
+        { name: "Viziteo", desc: "Plateforme web de salon virtuel : gestion des événements, exposants et visiteurs, conçue de bout en bout.", tech: ["ASP.NET Core MVC", "PostgreSQL"] },
+        { name: "Job Privé", desc: "Module de journal d'activité pour un réseau social professionnel type LinkedIn, suivi des candidats.", tech: ["Laravel", "MySQL"] },
         { name: "Lifeline", desc: "Filtrage des informations patients dans un fichier, persistance sur base de données relationnelle.", tech: ["ASP.NET", "SQL Server"] },
         { name: "GestionVente", desc: "Application web de gestion de vente développée en full stack Laravel, du modèle de données à l'interface.", tech: ["Laravel", "MySQL", "Bootstrap"] },
       ],
@@ -286,12 +286,12 @@ export const CONTENT = {
     },
     projects: {
       eyebrow: "Work",
-      title: "10+ projects delivered since 2023",
+      title: "Projects delivered since 2023",
       items: [
         { name: "PREVSUP", desc: "Student enrollment forecasting — French government application. Migration ASP.NET 5 → 10, API testing, Swagger documentation.", tech: ["ASP.NET Core", "MongoDB", "Swagger"] },
         { name: "ONACVG", desc: "French government application for the National Office of War Veterans — WordPress frontend/backend, Custom Post Types.", tech: ["WordPress", "PHP"] },
-        { name: "SalonVirtuel", desc: "Virtual fair web platform: end-to-end management of events, exhibitors and visitors.", tech: ["ASP.NET Core MVC", "PostgreSQL"] },
-        { name: "ReseauPro", desc: "Activity log module for a LinkedIn-like professional social network, tracking candidates.", tech: ["Laravel", "MySQL"] },
+        { name: "Viziteo", desc: "Virtual fair web platform: end-to-end management of events, exhibitors and visitors.", tech: ["ASP.NET Core MVC", "PostgreSQL"] },
+        { name: "Job Privé", desc: "Activity log module for a LinkedIn-like professional social network, tracking candidates.", tech: ["Laravel", "MySQL"] },
         { name: "Lifeline", desc: "Filtering patient information in a file, persisted to a relational database.", tech: ["ASP.NET", "SQL Server"] },
         { name: "GestionVente", desc: "Sales management web application built in full stack Laravel, from data model to interface.", tech: ["Laravel", "MySQL", "Bootstrap"] },
       ],

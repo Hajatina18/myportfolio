@@ -23,7 +23,6 @@ export default function Projects() {
               >
                 <div className="flex items-center justify-between mb-3">
                   <h3 className="display" style={{ fontSize: 16.5, fontWeight: 600 }}>{proj.name}</h3>
-                  <ArrowUpRight size={16} style={{ color: "var(--accent)" }} />
                 </div>
                 <p style={{ fontSize: 13.5, color: "var(--text-muted)", lineHeight: 1.65, flex: 1 }}>{proj.desc}</p>
                 <div style={{ marginTop: 14, paddingTop: 12, borderTop: "1px solid var(--border-soft)" }}>

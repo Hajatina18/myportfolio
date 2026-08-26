@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://razavonjifanahy.vercel.app/sitemap.xml
